@@ -90,7 +90,7 @@ com.taskmaster.app
 
 | Görev Listesi | Görev Ekleme | Dark Tema |
 |:-:|:-:|:-:|
-| ![Liste](screenshots/Screenshot_1.jpeg) | ![Ekleme](Screenshot_2.jpeg) | ![Dark](Screenshot_3.jpeg) |
+| ![Liste](screenshots/Screenshot_1.jpeg) | ![Ekleme](screenshots/Screenshot_2.jpeg) | ![Dark](screenshots/Screenshot_3.jpeg) |
 
 > 💡 Projeyi çalıştırdıktan sonra ekran görüntüleri ekleyebilirsiniz.
 
