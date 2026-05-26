@@ -34,3 +34,5 @@ google-services.json
 
 # Kotlin
 .kotlin/
+.DS_Store
+**/.DS_Store
