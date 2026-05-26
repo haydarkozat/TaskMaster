@@ -73,7 +73,7 @@ com.taskmaster.app
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/TaskMaster.git
+   git clone https://github.com/haydarkozat/TaskMaster.git
    ```
 
 2. Android Studio'da açın: **File → Open → TaskMaster** klasörünü seçin
@@ -90,7 +90,7 @@ com.taskmaster.app
 
 | Görev Listesi | Görev Ekleme | Dark Tema |
 |:-:|:-:|:-:|
-| Liste ekranı | Ekleme/düzenleme ekranı | Karanlık mod |
+| ![Liste](screenshots/Screenshot_1.jpeg) | ![Ekleme](Screenshot_2.jpeg) | ![Dark](Screenshot_3.jpeg) |
 
 > 💡 Projeyi çalıştırdıktan sonra ekran görüntüleri ekleyebilirsiniz.
 
